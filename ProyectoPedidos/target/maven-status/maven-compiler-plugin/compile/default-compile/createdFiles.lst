@@ -1,0 +1,4 @@
+com\navent\dao\PedidoDao.class
+com\navent\services\PedidoService.class
+com\navent\model\entity\Pedido.class
+com\navent\cached\BumexMemCached.class
