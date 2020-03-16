@@ -1,0 +1,3 @@
+2.. Utilizaría vistas para recuperar solo la información requerida y no toda la tabla en si, esto aumentaría la velocidad de respuesta .
+MemCached .. es lo que acabo de conocer y lo utilizaría para evitar accesos innecesarios a la base de datos 
+Índices .. para agilizar las busquedas 
